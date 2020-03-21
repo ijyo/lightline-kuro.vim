@@ -14,7 +14,7 @@ function! s:palette() abort
   let secondary = ['#000000', '#bcbcbc', 16, 240]
   let teriary = ['#eeeeee', '#000000', 255, 16]
   let edit = ['#000000', '#585858', 16, 250, 'bold']
-  let error = ['#eeeeee', '#870000', 255, 88]
+  let error = ['#ff0000', '#000000', 9, 16]
   let warning = ['#afaf00', '#000000', 142, 16]
 
   let p.normal.middle = [teriary]
